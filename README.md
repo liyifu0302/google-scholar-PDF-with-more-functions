@@ -27,7 +27,7 @@ Annotate PDF files freely with a built-in drawing tool.
 ## New Features Planed🆕🆕🆕
 Coming Soon!
 
-## Installation
+## Installation🖥️🖥️🖥️
 
 Note: If you have the original Google Scholar PDF Reader extension installed, uninstall it before proceeding.
 
