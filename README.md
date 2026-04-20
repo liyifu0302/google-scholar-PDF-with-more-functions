@@ -37,12 +37,16 @@ Note: If you have the original Google Scholar PDF Reader extension installed, un
 ## 3. Open your browser's extension management page:
 
   Chrome: chrome://extensions
+  
   Edge: edge://extensions
+  
   Brave: brave://extensions
+  
   Other: consult your browser's documentation for the extension management page.
 
 
 ## Enable Developer mode if it is not already active (typically a toggle in the top-right corner).
+
 ## Click Load unpacked and select the extension folder inside the extracted ZIP file.
 
 ## Enjoy! 🍾🍾🍾
