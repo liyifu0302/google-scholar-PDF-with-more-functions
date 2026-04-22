@@ -4,7 +4,7 @@ Hope this extension will be helpful!
 
 ## Highlights⭐⭐⭐🎈🎈🎈
 ## 1. A Fresh New Material Design 3 Look 🪄🪄🪄
-<img width="2822" height="1488" alt="703b5158-389a-43c7-8678-b388947f97f9" src="https://github.com/user-attachments/assets/2e5d769a-90b7-4f8e-9b85-9346fdfd9db7" />
+<img width="1914" height="974" alt="image" src="https://github.com/user-attachments/assets/e4890e92-236b-461e-a998-47ffd4c0e96e" />
 
 ## 2. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
